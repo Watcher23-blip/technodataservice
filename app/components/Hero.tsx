@@ -17,7 +17,7 @@ export default function Hero() {
       <div className="relative z-10 mx-auto w-full max-w-7xl px-6 py-24 md:px-12 lg:px-16">
         <div className="max-w-4xl">
           <p className="mb-6 text-sm font-semibold uppercase tracking-[0.2em] text-blue-200 sm:text-base">
-            Data Tech Service
+           TECHNO DATA SERVICE
           </p>
 
           <h1 className="max-w-4xl text-4xl font-bold leading-tight tracking-tight text-white sm:text-5xl md:text-6xl lg:text-7xl">
