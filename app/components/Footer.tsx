@@ -8,7 +8,7 @@ export default function Footer() {
           href="#home"
           className="text-lg font-normal tracking-tight text-white transition-colors duration-200 hover:text-blue-300"
         >
-          TECHNODATA <span className="text-blue-400">SERVICES</span>
+          TECHNODATA <span className="text-blue-400">SERVICE</span>
         </Link>
 
         <p className="text-sm font-normal text-gray-400">

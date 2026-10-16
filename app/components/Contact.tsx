@@ -58,10 +58,10 @@ export default function Contact() {
             </p>
 
             <Link
-              href="mailto:support@technodataservices.com"
+              href="mailto:support@technodataservice.com"
               className="mt-5 inline-flex items-center gap-2 break-all text-base font-semibold text-blue-600 transition-colors hover:text-blue-800 sm:text-lg"
             >
-              support@technodataservices.com
+              support@technodataservice.com
               <ArrowUpRight
                 size={18}
                 className="shrink-0"

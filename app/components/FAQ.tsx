@@ -11,7 +11,7 @@ import {
 
 const faqs = [
   {
-    question: "What services does TECHNODATASERVICES provide?",
+    question: "What services does TECHNODATASERVICE provide?",
     answer:
       "We provide typing, data entry, data segregation, data processing, and freelancer-based execution services.",
   },
